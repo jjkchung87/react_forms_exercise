@@ -1,0 +1,225 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BoxList /> rendering inital BoxList and win state matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="BoxList"
+  >
+    <form>
+      <label
+        for="width"
+      >
+        Width: 
+      </label>
+      <input
+        id="width"
+        name="width"
+        placeholder="width"
+        value=""
+      />
+      <label
+        for="width"
+      >
+        Height: 
+      </label>
+      <input
+        id="height"
+        name="height"
+        placeholder="height"
+        value=""
+      />
+      <label
+        for="width"
+      >
+        Color: 
+      </label>
+      <input
+        id="color"
+        name="color"
+        placeholder="color"
+        value=""
+      />
+      <button>
+        Submit
+      </button>
+    </form>
+    <div
+      class="Box"
+      style="background-color: red; height: 20px; width: 20px;"
+    />
+    <span
+      class="Box-delete"
+    >
+      x
+    </span>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<BoxList /> rendering inital BoxList and win state matches snapshot BoxList 1`] = `
+<DocumentFragment>
+  <div
+    class="BoxList"
+  >
+    <form>
+      <label
+        for="width"
+      >
+        Width: 
+      </label>
+      <input
+        id="width"
+        name="width"
+        placeholder="width"
+        value=""
+      />
+      <label
+        for="width"
+      >
+        Height: 
+      </label>
+      <input
+        id="height"
+        name="height"
+        placeholder="height"
+        value=""
+      />
+      <label
+        for="width"
+      >
+        Color: 
+      </label>
+      <input
+        id="color"
+        name="color"
+        placeholder="color"
+        value=""
+      />
+      <button>
+        Submit
+      </button>
+    </form>
+    <div
+      class="Box"
+      style="background-color: red; height: 20px; width: 20px;"
+    />
+    <span
+      class="Box-delete"
+    >
+      x
+    </span>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<BoxList /> rendering inital BoxList and win state matches snapshot for full BoxList 1`] = `
+<DocumentFragment>
+  <div
+    class="BoxList"
+  >
+    <form>
+      <label
+        for="width"
+      >
+        Width: 
+      </label>
+      <input
+        id="width"
+        name="width"
+        placeholder="width"
+        value=""
+      />
+      <label
+        for="width"
+      >
+        Height: 
+      </label>
+      <input
+        id="height"
+        name="height"
+        placeholder="height"
+        value=""
+      />
+      <label
+        for="width"
+      >
+        Color: 
+      </label>
+      <input
+        id="color"
+        name="color"
+        placeholder="color"
+        value=""
+      />
+      <button>
+        Submit
+      </button>
+    </form>
+    <div
+      class="Box"
+      style="background-color: red; height: 20px; width: 20px;"
+    />
+    <span
+      class="Box-delete"
+    >
+      x
+    </span>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<BoxList /> rendering inital BoxList matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="BoxList"
+  >
+    <form>
+      <label
+        for="width"
+      >
+        Width: 
+      </label>
+      <input
+        id="width"
+        name="width"
+        placeholder="width"
+        value=""
+      />
+      <label
+        for="height"
+      >
+        Height: 
+      </label>
+      <input
+        id="height"
+        name="height"
+        placeholder="height"
+        value=""
+      />
+      <label
+        for="color"
+      >
+        Color: 
+      </label>
+      <input
+        id="color"
+        name="color"
+        placeholder="color"
+        value=""
+      />
+      <button>
+        Submit
+      </button>
+    </form>
+    <div
+      class="Box"
+      style="background-color: red; height: 20px; width: 20px;"
+    />
+    <span
+      class="Box-delete"
+    >
+      x
+    </span>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,8 @@
+.ToDo {
+    opacity: 1; /* Fully opaque */
+    transition: opacity 0.5s; /* Transition effect on opacity property */
+}
+
+.ToDo .fade-out {
+    opacity: 0; /* Fades out the element */
+  }
